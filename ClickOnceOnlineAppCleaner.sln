@@ -7,7 +7,7 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ClickOnceOnlineAppCleaner",
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{452862EE-6243-4122-9C27-88FA9B225AF9}"
 	ProjectSection(SolutionItems) = preProject
-		LICENSE.md = LICENSE.md
+		LICENSE.txt = LICENSE.txt
 		README.md = README.md
 	EndProjectSection
 EndProject
